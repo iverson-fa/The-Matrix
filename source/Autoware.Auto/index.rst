@@ -16,3 +16,6 @@ Autoware.Auto
     System
     Tools
     URDF
+
+.. image:: https://my-space.readthedocs.io/zh/latest/_images/avp_framework.drawio.svg
+
