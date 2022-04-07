@@ -17,5 +17,5 @@ Autoware.Auto
     Tools
     URDF
 
-.. image:: https://my-space.readthedocs.io/zh/latest/_images/avp_framework.drawio.svg
+.. image:: images/avp_framework.drawio.svg
 
