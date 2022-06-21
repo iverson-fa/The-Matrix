@@ -4,6 +4,7 @@ Autoware.Auto
  .. toctree::
     :maxdepth: 2
 
+    Installation
     Common
     Control
     Drivers
