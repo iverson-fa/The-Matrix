@@ -4,8 +4,8 @@ Autoware.Auto
  .. toctree::
     :maxdepth: 2
 
-    Installation
     Common
+    Installation
     Control
     Drivers
     Fusion
